@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adhithya</h1>
+`# Hi 👋, I'm Adhithya
 
-<h3 align="center">
-☁️ Aspiring Cloud & DevOps Engineer | 🌐 Networking Enthusiast
-</h3>
+### ☁️ Aspiring Cloud & DevOps Engineer | 🌐 Networking Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Cloud+%26+DevOps+Engineer;AWS+%7C+Networking+%7C+Linux;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Networking;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,19 +12,33 @@
 
 - 🎓 Computer Science Engineering Graduate
 - ☁️ Aspiring **Cloud & DevOps Engineer**
-- 🌐 Passionate about **Networking & Cloud Infrastructure**
+- 🌐 Interested in **Networking & Cloud Infrastructure**
 - 🔭 Currently working on **Cloud Cost Optimization & Auto-Shutdown System**
-- 🌱 Currently learning **AWS, Kubernetes, Terraform, CI/CD, Linux & Networking**
-- 👯 Looking to collaborate on **Cloud & DevOps Open Source Projects**
+- 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD, Linux & Networking**
 - 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Terraform, Networking, Git & GitHub**
-- 📫 Reach me at **adhithyasidharthan01@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,python,nodejs,java,mongodb,mysql,vscode,postman" />
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,jenkins" />
+</p>
+
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,nodejs,express" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
@@ -34,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhithya20&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithya20&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adhithya20&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithya20&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -43,37 +55,41 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Adhithya20&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Adhithya20&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Adhithya20
+- LinkedIn: https://linkedin.com/in/adhithya-ps
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhithya20&theme=tokyo-night"/>
+  <img src="https://komarev.com/ghpvc/?username=Adhithya20&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+⭐ **Thanks for visiting my profile!**
+`}/>
 
-<p align="left">
-<a href="https://github.com/Adhithya20">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
+### What you need to change
 
-<a href="https://linkedin.com/in/adhithya-ps">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-</p>
+Replace this line with your actual LinkedIn profile:
 
----
+<CodeBlock language="markdown" editable={true} interactive={true} model_previewable={false} content={`- LinkedIn: https://www.linkedin.com/in/adhithya-ps`}/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhithya20&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+### Why this version works better
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-</p>
+<List><List.Item>Uses the more reliable <Code value="readme-typing-svg.herokuapp.com"/> service for animation.</List.Item><List.Item>Uses <Code value="skillicons.dev"/> which loads consistently on GitHub.</List.Item><List.Item>Removes the broken GIF image that often fails to display.</List.Item><List.Item>Keeps the design clean and professional for recruiters.</List.Item></List>
+
+After pasting:
+
+<List><List.Item>Go to <Code value="https://github.com/Adhithya20/Adhithya20"/>.</List.Item><List.Item>Click <Text inline weight="semibold" value="README.md"/>.</List.Item><List.Item>Click <Text inline weight="semibold" value="Edit"/>.</List.Item><List.Item>Replace everything with the code above.</List.Item><List.Item>Click <Text inline weight="semibold" value="Commit changes"/>.</List.Item></List>
+
+Wait 10–20 seconds and refresh your GitHub profile page. The animated typing text should appear properly.</Response>
