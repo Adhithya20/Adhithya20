@@ -23,17 +23,12 @@
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,jenkins,helm" />
 </p>
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,nodejs,express" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Tools
