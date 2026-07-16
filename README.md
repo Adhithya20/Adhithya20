@@ -82,14 +82,16 @@
 
 Replace this line with your actual LinkedIn profile:
 
-<CodeBlock language="markdown" editable={true} interactive={true} model_previewable={false} content={`- LinkedIn: https://www.linkedin.com/in/adhithya-ps`}/>
+<CodeBlock language="markdown" ... />
 
 ### Why this version works better
 
-<List><List.Item>Uses the more reliable <Code value="readme-typing-svg.herokuapp.com"/> service for animation.</List.Item><List.Item>Uses <Code value="skillicons.dev"/> which loads consistently on GitHub.</List.Item><List.Item>Removes the broken GIF image that often fails to display.</List.Item><List.Item>Keeps the design clean and professional for recruiters.</List.Item></List>
+<List>...</List>
 
 After pasting:
 
-<List><List.Item>Go to <Code value="https://github.com/Adhithya20/Adhithya20"/>.</List.Item><List.Item>Click <Text inline weight="semibold" value="README.md"/>.</List.Item><List.Item>Click <Text inline weight="semibold" value="Edit"/>.</List.Item><List.Item>Replace everything with the code above.</List.Item><List.Item>Click <Text inline weight="semibold" value="Commit changes"/>.</List.Item></List>
+<List>...</List>
 
-Wait 10–20 seconds and refresh your GitHub profile page. The animated typing text should appear properly.</Response>
+Wait 10–20 seconds and refresh your GitHub profile page.
+
+</Response>
