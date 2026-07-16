@@ -38,14 +38,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adhithya20&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Adhithya20
