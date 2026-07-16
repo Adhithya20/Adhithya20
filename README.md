@@ -76,22 +76,4 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**
-`}/>
 
-### What you need to change
-
-Replace this line with your actual LinkedIn profile:
-
-<CodeBlock language="markdown" ... />
-
-### Why this version works better
-
-<List>...</List>
-
-After pasting:
-
-<List>...</List>
-
-Wait 10–20 seconds and refresh your GitHub profile page.
-
-</Response>
