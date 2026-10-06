@@ -1,6 +1,6 @@
 `# Hi 👋, I'm Adhithya
 
-### ☁️ Aspiring Cloud & DevOps Engineer | 🌐 Networking Enthusiast
+### Software Engineering |☁️ Aspiring Cloud & DevOps Engineer | 🌐 Networking Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Networking;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
@@ -12,9 +12,9 @@
 
 - 🎓 Computer Science Engineering Graduate
 - ☁️ Aspiring **Cloud & DevOps Engineer**
-- 🌐 Interested in **Networking & Cloud Infrastructure**
+- 🌐 Interested in **Networking & Cloud Infrastructure & Software engineering**
 - 🔭 Currently working on **Cloud Cost Optimization & Auto-Shutdown System**
-- 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD, Linux & Networking**
+- 🌱 Learning **AWS, Kubernetes, Terraform, CI/CD, Linux & Networking , python, SQL**
 - 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Terraform, Networking, Git & GitHub**
 
 ---
